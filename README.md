@@ -52,9 +52,13 @@ I am a **Biomedical Engineer** and **NeuroAI & Neurotechnology Research Enthusia
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KhalilMaaarouf&show_icons=true&theme=nord&count_private=true" alt="Khalil's GitHub Stats" />
+  <a href="https://github.com/KhalilMaaarouf?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=KhalilMaaarouf&show_icons=true&theme=nord&count_private=true" alt="Khalil's GitHub Stats" />
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilMaaarouf&layout=compact&theme=nord" alt="Top Languages" />
+  <a href="https://github.com/KhalilMaaarouf?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilMaaarouf&layout=compact&theme=nord" alt="Top Languages" />
+  </a>
 </p>
 
 ---
