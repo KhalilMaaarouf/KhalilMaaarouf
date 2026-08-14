@@ -15,7 +15,7 @@ I am a **Biomedical Engineer** and **NeuroAI & Neurotechnology Research Enthusia
 * 🏛️ **Academic Experience:** Former Lecturer at the Department of Biomedical Engineering, Latakia University.
 * 🧪 **Research:** Research Member at **Nibras Center for Neural Interfaces and Brain Research**.
 * 🌐 **Affiliations:** Member of the International Commission for Human Development Scientists (ICSHD).
-* 🎯 **Research Interests:** Brain-Computer Interfaces (BCI) | EEG Signal Processing | NeuroAI | Mental Workload Detection | Medical Imaging & AI in Healthcare.
+* 🎯 **Research Interests:** Brain-Computer Interfaces (BCI) | EEG Signal Processing | NeuroAI |Medical Imaging & AI in Healthcare.
 
 ---
 
